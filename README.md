@@ -8,5 +8,8 @@ JHUPracticalMachineLearning_courseproject.
 
 The name is a continuous character string because of the generation of the html - file.
   
+The html - file opens in github - desktop in a browser, whichk gives a better view of the contents.
+You might use the pdf - version, it should give the same compuutational results.  
+  
 The prediction - set is the same as the problem - set of textfiles.
 
